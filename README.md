@@ -40,3 +40,6 @@ WHEN I am presented with the Resume section
 THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and th
+
+
+As always thank you to Kai, Karl, my group mates, youtube walk throughs, and the almighty google. 
