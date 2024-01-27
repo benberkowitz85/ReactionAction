@@ -42,4 +42,6 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and th
 
 
+Acknowledgements 
+
 As always thank you to Kai, Karl, my group mates, youtube walk throughs, and the almighty google. 
