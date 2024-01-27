@@ -1,5 +1,8 @@
 # ReactionAction
 
+Description 
+I am Ben Berkowitz and this is a summary of my accomplishments in school and work. this was made to help md secure a well paying job as a computer coder. 
+
 
 User Story
 AS AN employer looking for candidates with experience building single-page applications
