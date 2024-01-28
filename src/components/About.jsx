@@ -1,5 +1,4 @@
-import profilePic from "public\x0291246777_10160306275047342_1044029494535076259_n.jpg";
-
+import profilePic from "public\main.jpg"
 function About() {
   return (
     <div>
