@@ -1,4 +1,4 @@
-import profilePic from "public\291246777_10160306275047342_1044029494535076259_n.jpg";
+import profilePic from "public\x0291246777_10160306275047342_1044029494535076259_n.jpg";
 
 function About() {
   return (
@@ -10,6 +10,7 @@ function About() {
         <div className="m-3 text-xl font-medium leading-loose p-1">
           <p><strong>Hello there!</strong> I am Ben Berkowitz, I am a student at the UNC Coding Bootcamp, hoping to graduate in Feburary 2024.</p>
       </div>
+    </div>
     </div>
   );
 }

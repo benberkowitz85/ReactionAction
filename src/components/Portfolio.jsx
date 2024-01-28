@@ -12,7 +12,7 @@ function Portfolio() {
         },
 
 
-    return (
+    Return (
         <section className='p-4 my-8'>
             <h1 className='font-bold mb-4'>Portfolio</h1>
             {/* using columns for responsiveness on this page */}
