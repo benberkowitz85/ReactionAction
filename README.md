@@ -1,7 +1,16 @@
 # ReactionAction
 
+Description 
+
+I am Ben Berkowitz and this is a summary of my accomplishments in school and work. this was made to help md secure a well paying job as a computer coder. 
+
+Demo 
+
+
 
 User Story
+
+
 AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
@@ -31,3 +40,8 @@ WHEN I am presented with the Resume section
 THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and th
+
+
+Acknowledgements 
+
+As always thank you to Kai, Karl, my group mates, youtube walk throughs, and the almighty google. 
