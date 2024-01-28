@@ -1,15 +1,30 @@
 import { useState } from 'react';
-import Project from './Project.jsx';
+import Project from 'src\components\Project.jsx';
 
 function Portfolio() {
     const [projects] = useState([
         // Providing the name, description, and link for each project object
 
-        {
-            name: 'Flavorful Finds Recipe Finder',
-            description: 'Search for recipes by ingredient and save your favorites!',
-            link: "https://anewgard41.github.io/Flavor-Finds-Recipe-Finder/"
-        },
+ <h1>Individually Created Projects</h1>
+        
+{
+    Name: 'Password Generator'
+    Description: 'Create a unique password with this web page.'
+    Link: "https://benberkowitz85.github.io/PasswordGenerator/"
+}
+
+{
+    Name: 'Timed Quiz'
+    Description: 'A fun and simple Star Wars based quiz.'
+    Link: "https://benberkowitz85.github.io/QuizProject/"
+}
+
+<h1>Group Projects</h1>
+{
+     Name: 'Flavorful Finds Recipe Finder',
+     Description: 'Search for recipes by ingredient and save your favorites!',
+     Link: "https://anewgard41.github.io/Flavor-Finds-Recipe-Finder/"
+},
 
 
     Return (
@@ -24,4 +39,4 @@ function Portfolio() {
             </div>
         </section>
     )]
-    export default Portfolio;}
+export default Portfolio;}
