@@ -20,8 +20,8 @@ function Portfolio() {
 
 {
      Name: 'Flavorful Finds Recipe Finder',
-     Description: 'Search for recipes by ingredient and save your favorites!',
-     Link: "https://anewgard41.github.io/Flavor-Finds-Recipe-Finder/"
+     Description; 'Search for recipes by ingredient and save your favorites!',
+     Link; "https://anewgard41.github.io/Flavor-Finds-Recipe-Finder/"
 }
 
 
@@ -37,4 +37,4 @@ function Portfolio() {
             </div>
         </section>
     )
-export default Portfolio;}
+;}
