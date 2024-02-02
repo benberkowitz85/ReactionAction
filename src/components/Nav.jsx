@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 function Nav({ currentPage }) {
-    // This allows the nav bar to highlight the current page. The ternerary operator checks if the currentPage is equal to the page being mapped over. If it is, it will apply the text-blue-500 class, if not, it will apply the text-gray-500 class.
+    // Highlight the current page
     const isPageActive = (page) => (currentPage === page ? "text-blue-500 hover:text-blue-800" : "text-gray-500 hover:text-gray-700 cursor-pointer");
 
     return (
