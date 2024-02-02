@@ -1,13 +1,13 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { createBrowserRouter, Router, RouterProvider } from 'react-router-dom'
-import App from '\App.jsx'
-import '.\index.css'
+import App from 'App.jsx'
+import 'index.css'
 // importing components
-import Contact from '.\Contact.jsx' 
-import About from '.\About.jsx'
-import Resume from '.\Resume.jsx'
-import Portfolio from '.\Portfolio.jsx'
+import Contact from '.Contact.jsx' 
+import About from '.About.jsx'
+import Resume from '.Resume.jsx'
+import Portfolio from '.Portfolio.jsx'
 
 const BrowserRouter = createBrowserRouter([
   {
